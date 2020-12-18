@@ -15,6 +15,5 @@
 | 911 Call Data | [link](link/to/full/dataset2) | 109.2 | [Raw Dataset 2 Report](link/to/report2)| ...|
 
 
-If the link to the full dataset does not apply, provide some information on how to access the full dataset. 
 
 
